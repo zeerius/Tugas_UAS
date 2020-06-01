@@ -6,22 +6,22 @@ NIM   : 1908107010028
 #Login, 
 Format data dalam file login.bin yaitu:
 Admin_Zaidan zzz310102
-Note : username dan password dipisahkan menggunakan spasi
-Pada awal mulai program, user diminta untuk menginput username dan password
+.Note : username dan password dipisahkan menggunakan spasi.
+Pada awal mulai program, user diminta untuk menginput username dan password.
 Username  : Admin_Zaidan
 Password  : zzz310102
 Setelah berhasil login, user dapat mengganti username dan password dengan memilih pilihan 6 pada menu
 
 #Procces, 
-Program akan membaca file data.txt dan memprosesnya, kemudian ditampung pada array bertipe struct
+Program akan membaca file data.txt dan memprosesnya, kemudian ditampung pada array bertipe struct.
 Format data dalam file data.txt yaitu:
 Nama# Sekolah# Kelas# No_Hp# Program# Biaya# Status;
 
 #Read, 
-Pilihan menu pertama akan menampilkan data yang ada dalam struct yang sebelumnya sudah di proses dari file data.txt
+Pilihan menu pertama akan menampilkan data yang ada dalam struct yang sebelumnya sudah di proses dari file data.txt.
 
 #Search, 
-Pilihan menu kedua akan mencari data berdasarkan nama, user akan diminta untuk menginput nama yang akan dicari
+Pilihan menu kedua akan mencari data berdasarkan nama, user akan diminta untuk menginput nama yang akan dicari.
 
 #Add, 
 Pilihan menu ketiga akan menambahkan data, jika nama yang diinput user sudah ada dalam data, maka user diminta untuk menginput nama ulang.
