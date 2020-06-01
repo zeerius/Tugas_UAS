@@ -1,0 +1,9 @@
+Nama# Sekolah# Kelas# No_Hp# Program# Biaya# Status;
+Putri Nadhifa# SMAN 4# 10# 088899997777# SBMPTN# 3.550.000# Lunas;
+Darto Dormani# Modal Bangsa# 12# 088897865734# UN# 9.000.000# Kredit;
+Sulthan Zaidan# SDN 24# 6# 082363534333# Reguler# 7.500.000# Kredit;
+Pontaso Markuz# Yapena# 11# 099877899865# Reguler# 20.000.000# Lunas;
+Alex Zemdegs# MTsN Model# 9# 082342425371# UN# 4.500.000# Lunas;
+Cut Ferry# SMAN 3# 11# 085210261078# SBMPTN# 5.000.000# Kredit;
+Xabi Alonso# MAN Model# 12# 082234871909# Kedinasan# 5.500.000# Lunas;
+Lullaby Cyntha# SD Kartika# 4# 085367091023# Reguler# 2.500.000# Lunas;
