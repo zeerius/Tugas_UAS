@@ -39,3 +39,4 @@ User juga bisa memilih data apa yang akan diubah. Setelah diubah, data yang terb
 Pilihan menu keenam, user juga dapat mengganti username dan password. Setelah selesai, user akan diminta untuk melakukan login ulang
 
 #Akhir dari program
+Pilihan menu ketujuh akan mengakhir program.
